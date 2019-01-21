@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-  <div>i am goods</div>
+  <div>I am goods</div>
 </template>
 
 <script type="text/ecmascript-6">
